@@ -11,7 +11,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/BurntSushi/xgb"
+	"github.com/varialus/xgb"
 	"github.com/BurntSushi/xgb/xproto"
 
 	"github.com/BurntSushi/xgbutil"
